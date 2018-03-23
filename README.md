@@ -1,0 +1,1 @@
+# Multiview-Marginal-Discriminant-Projection-for-Hyperspectral-Images-Classification
