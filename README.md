@@ -16,7 +16,7 @@
   ```python
   print('MvDA', 'indian', 'wavelet')
   for i in range(20):
-  experiment('MvDA', 'indian', 'wavelet', 20, 0.45)
+  	experiment('MvDA', 'indian', 'wavelet', 20, 0.45)
   ```
 
 	```bash
